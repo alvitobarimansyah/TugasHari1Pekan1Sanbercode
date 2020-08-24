@@ -1,6 +1,12 @@
 # soal no 1
 
-print("Hello World Python")
+# soal no 1
+
+a = "Hello"
+b = "World"
+c = "Python"
+
+print(a + " " + b + " " + c)
 
 # soal no 2
 

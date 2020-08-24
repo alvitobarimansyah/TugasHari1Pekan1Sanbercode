@@ -1,7 +1,5 @@
 # soal no 1
 
-# soal no 1
-
 a = "Hello"
 b = "World"
 c = "Python"

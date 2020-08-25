@@ -12,16 +12,16 @@ x = int(input("Masukkan Nilai : "))
 y = int(input("Masukkan Nilai : "))
 
 # penjumlahan
-print("Hasil Penjumlahan dari x + y = ", x + y)
+print("Hasil Penjumlahan dari",x,"+",y,"=",x + y)
 
 # pengurangan
-print("Hasil Pengurangan dari x - y = ", x - y)
+print("Hasil Pengurangan dari",x,"-",y,"=",x - y)
 
 # perkalian
-print("Hasil Perkalian dari x * y = ", x * y)
+print("Hasil Perkalian dari",x,"*",y,"=",x * y)
 
 # pembagian
-print("Hasil Pembagian dari x / y = ", int(x / y))
+print("Hasil Pembagian dari",x,"/",y,"=",int(x / y))
 
 # soal no 3
 

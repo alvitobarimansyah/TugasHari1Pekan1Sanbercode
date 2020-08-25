@@ -39,7 +39,7 @@ print("Hasil Pembagian a dan b bertipe data float : ", a / b)
 firstname = "Alvito"
 lastname = "Barimansyah"
 
-print("Hello sanbercode, saya " + firstname + " " + lastname + "! saya siap belajar python data science.")
+print("Hello sanbercode, saya",firstname,lastname,"! saya siap belajar python data science.")
 
 # soal no 5
 
